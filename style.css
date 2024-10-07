@@ -3,3 +3,9 @@ body{
     background-color: black ;
 }
 /* control + espaço mostra as opção do auto complete */
+
+section{
+    background-color: purple;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
