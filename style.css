@@ -20,6 +20,7 @@ section{
     justify-content: center;
 }
 
-div{
+.chamada-texto{ /*a primeira div*/
     margin-right: 20px;
 }
+
