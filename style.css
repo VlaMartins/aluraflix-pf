@@ -5,8 +5,8 @@ body{
 /* control + espaço mostra as opção do auto complete */
 
 header{
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     background-color: pink;
     color: black;
     font-size: 40px;
@@ -14,8 +14,8 @@ header{
 
 section{
     background-color: rgb(143, 79, 143);
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     display: flex;
     justify-content: center;
 }
