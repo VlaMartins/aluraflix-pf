@@ -23,7 +23,7 @@ section{
 .texto-centro{
     text-align: center;
     font-style: italic;
-    color: gray;
+    color: rgb(213, 207, 207);
 }
 
 .chamada-texto{ /*a primeira div*/
