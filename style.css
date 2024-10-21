@@ -29,5 +29,7 @@ img{
 }
 
 .categoria-videos{
-    
+    display: flex;
+    overflow-x: auto;/* ele controla criando uma barra de rolagem */
+    gap: 10px; /*so funciona se for flex o display*/
 }
