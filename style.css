@@ -22,6 +22,8 @@ section{
 
 .texto-centro{
     text-align: center;
+    font-style: italic;
+    color: gray;
 }
 
 .chamada-texto{ /*a primeira div*/
