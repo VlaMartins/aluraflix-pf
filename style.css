@@ -12,14 +12,12 @@ header{
     font-size: 40px;
 }
 
-section{
+.chamada{
     background-color: rgb(143, 79, 143);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
-    padding-left: 20px;
-    padding-right: 20px ;
 }
 
 .texto-centro{
@@ -40,4 +38,9 @@ img{
     display: flex;
     overflow-x: auto;/* ele controla criando uma barra de rolagem */
     gap: 10px; /*so funciona se for flex o display*/
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px ;
 }
